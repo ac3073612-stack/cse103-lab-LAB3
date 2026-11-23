@@ -1,57 +1,33 @@
+# Hi, I am Aditya Choudhary
 
-# CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
+## About Me
 
-![Last Commit](https://img.shields.io/github/last-commit/ac3073612-stack/cse103-lab-LAB3)
-![Language](https://img.shields.io/badge/language-Python-blue)
-![Status](https://img.shields.io/badge/status-active-brightgreen)
+- B.Tech CSE (AIML) Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
+- Currently learning: Python, Linux Shell Scripting, and Git/GitHub workflows
+- Interested in: Artificial Intelligence, Machine Learning, and Cybersecurity
 
-## Overview
+## Technical Skills
 
-This repository contains lab work for **LAB 3** of the Computer Fundamentals & Career Pathways (CSE103) course at **K.R. Mangalam University**, Gurugram.
+| Category | Technologies |
+|---|---|
+| Languages | Python (Beginner), Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
 
-## Repository Structure
+## Featured Projects
 
-```text
-cse103-lab-LAB3/
-|-- README.md
-|-- CHANGELOG.md
-|-- MARKDOWN_GUIDE.md
-|-- main.py
-|-- .gitignore
-```
+- **CSE103 Lab — LAB 3**
+  [View Project](https://github.com/ac3073612-stack/cse103-lab-LAB3)
 
-## Skills Demonstrated
+  Git workflows, API interaction, and Markdown documentation.
 
-| Skill | Status |
-|----------------------|-------------|
-| Git initialisation | Completed |
-| Meaningful commits | Completed |
-| Remote push / pull | Completed |
-| Markdown docs | Completed |
-| API interaction | Completed |
+## Currently Working On
 
-## How to Run
+- Semester 1 lab projects
+- Improving Python programming skills
+- Learning problem-solving and development workflows
 
-```bash
-git clone https://github.com/ac3073612-stack/cse103-lab-LAB3.git
-cd cse103-lab-LAB3
-python3 main.py
-```
+## Connect With Me
 
-## Key Learning Outcomes
-
-- Configured Git identity and initialised local repositories
-- Created atomic commits with Conventional Commit messages
-- Pushed and pulled changes with a GitHub remote
-- Authored structured Markdown documentation
-
-## References
-
-- [Pro Git Book](https://git-scm.com/book/en/v2)
-- [GitHub Skills](https://skills.github.com/)
-- [Markdown Guide](https://www.markdownguide.org/)
-# My First Repository
-
-## Description
-CSE103 lab repository - LAB 3.
-This repository is created for CSE103 Lab 3.
+- LinkedIn: www.linkedin.com/in/aditya-choudhary-99932b431
+- Email: ac3073612@gmail.com
